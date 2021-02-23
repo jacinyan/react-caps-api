@@ -1,0 +1,173 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Be Polite",
+      "price": "2288",
+      "tags": "2 Colors",
+      "image": "/images/products/1.png",
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "name": "Summer Day",
+      "price": "3076",
+      "tags": "2 Colors",
+      "image": "/images/products/2.png",
+      "status": "unavailable"
+    },
+    {
+      "id": 4,
+      "name": "Blossom",
+      "image": "/images/products/4.png",
+      "tags": "4 Colors",
+      "price": "1463",
+      "status": "available"
+    },
+    {
+      "id": 5,
+      "name": "Bizarre",
+      "price": "4938",
+      "tags": "3 Colors",
+      "image": "/images/products/5.png",
+      "status": "available"
+    },
+    {
+      "id": 6,
+      "name": "No Through Road",
+      "image": "/images/products/6.png",
+      "tags": "1 Color",
+      "price": "1607",
+      "status": "available"
+    },
+    {
+      "id": 7,
+      "name": "You Know Who",
+      "image": "/images/products/7.png",
+      "tags": "1 Color",
+      "price": "1092",
+      "status": "available"
+    },
+    {
+      "id": 8,
+      "name": "BITS",
+      "image": "/images/products/8.png",
+      "tags": "2 Colors",
+      "price": "1636",
+      "status": "available"
+    },
+    {
+      "id": 9,
+      "name": "Huh?",
+      "price": "2760",
+      "tags": "1 Color",
+      "image": "/images/products/9.png",
+      "status": "available"
+    },
+    {
+      "name": "Deep Vol.1",
+      "price": "978",
+      "status": "available",
+      "tags": "1 Color",
+      "image": "/images/products/10.png",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "name": "Marine",
+      "price": "3880",
+      "tags": "2 Colors",
+      "image": "/images/products/11.png",
+      "status": "available"
+    },
+    {
+      "name": "Korean Lattice",
+      "price": "898",
+      "status": "available",
+      "tags": "6 Colors",
+      "image": "/images/products/12.png",
+      "id": 12
+    },
+    {
+      "name": "The Universe",
+      "price": "4889",
+      "tags": "1 Color",
+      "image": "/images/products/13.png",
+      "status": "available",
+      "id": 15
+    },
+    {
+      "id": 16,
+      "name": "Color Color",
+      "price": "2222",
+      "tags": "4 Colors",
+      "image": "/images/products/15.png",
+      "status": "unavailable"
+    }
+  ],
+  "carts": [
+    {
+      "productId": 1,
+      "name": "Be Polite",
+      "image": "/images/products/1.png",
+      "price": "2288",
+      "quantity": 2,
+      "id": 1,
+      "userId": "user@example.com"
+    },
+    {
+      "productId": 4,
+      "name": "Blossom",
+      "image": "/images/products/4.png",
+      "price": "1463",
+      "quantity": 3,
+      "id": 2,
+      "userId": "admin@example.com"
+    },
+    {
+      "productId": 11,
+      "name": "Marine",
+      "image": "/images/products/11.png",
+      "price": "3880",
+      "quantity": 2,
+      "id": 4,
+      "userId": "admin@example.com"
+    },
+    {
+      "productId": 5,
+      "name": "Bizarre",
+      "image": "/images/products/5.png",
+      "price": "4938",
+      "quantity": 5,
+      "id": 5,
+      "userId": "user@example.com"
+    },
+    {
+      "productId": 9,
+      "name": "Huh?",
+      "image": "/images/products/9.png",
+      "price": "2760",
+      "quantity": 3,
+      "userId": "admin@example.com",
+      "id": 6
+    },
+    {
+      "productId": 4,
+      "name": "Blossom",
+      "image": "/images/products/4.png",
+      "price": "1463",
+      "quantity": 1,
+      "userId": "user@example.com",
+      "id": 7
+    },
+    {
+      "productId": 10,
+      "name": "Deep Vol.1",
+      "image": "/images/products/10.png",
+      "price": "978",
+      "quantity": 2,
+      "userId": "admin@example.com",
+      "id": 8
+    }
+  ]
+}
